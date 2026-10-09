@@ -1,0 +1,24 @@
+.-
+help for ^sdhurlde^
+.-
+
+Stochastic dhurdel regression Use sdh With STATA 19
+----------------------
+ 
+Description
+-----------
+
+^sdhurlde^ Stochastic dhurdel regression Use sdh With STATA 19.
+     
+Examples
+--------
+
+ . ^qui do "C:\Users\Admin\ado\plus\s\sdhurlde.do^
+ . ^sdh nrdoctorvisits age male linc^
+ 
+Author
+------
+
+      Timbul Widodo
+      Olah Data Semarang
+      https://www.youtube.com/@amalsedekah
