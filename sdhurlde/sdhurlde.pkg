@@ -1,3 +1,4 @@
 D 'sdh': Stochastic dhurdel regression Use sdh With STATA 19
 D
 F sdhurlde.do
+F sdhurlde.hlp
